@@ -1,4 +1,3 @@
-
 import Notification from "../models/notification.model.js";
 
 export const getNotifications = async (req, res) => {
